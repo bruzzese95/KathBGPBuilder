@@ -1,0 +1,2 @@
+ip addr add 217.107.0.2/18 dev eth0
+ip route add default via 217.107.0.1

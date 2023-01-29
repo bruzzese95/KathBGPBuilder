@@ -1,0 +1,2 @@
+ip addr add 195.216.64.2/19 dev eth0
+ip route add default via 195.216.64.1
