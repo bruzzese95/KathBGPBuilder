@@ -1,0 +1,160 @@
+BGP routing table entry for 82.97.207.0/24, version 2326858123
+Paths: (23 available, best #19, table default)
+  Not advertised to any peer
+  Refresh Epoch 1
+  3267 20485 199524
+    194.85.40.15 from 194.85.40.15 (185.141.126.1)
+      Origin IGP, metric 0, localpref 100, valid, external
+      path 7FE02FCFC298 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  20912 3257 6453 20485 199524
+    212.66.96.126 from 212.66.96.126 (212.66.96.126)
+      Origin IGP, localpref 100, valid, external
+      Community: 3257:8070 3257:30114 3257:50001 3257:53900 3257:53902 20912:65004
+      path 7FE091BB0DB8 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  7660 4635 8359 199524
+    203.181.248.168 from 203.181.248.168 (203.181.248.168)
+      Origin IGP, localpref 100, valid, external
+      Community: 0:3216 0:4635 0:9002 0:12389 0:16625 0:20485 0:20940 0:31133 0:32934 4635:4635 4635:65022 7660:6 7660:9003 8359:5500 8359:55654
+      path 7FE0DC693898 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  1351 8359 8359 199524
+    132.198.255.253 from 132.198.255.253 (132.198.255.253)
+      Origin IGP, localpref 100, valid, external
+      path 7FE15314A828 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  3333 8359 199524
+    193.0.0.56 from 193.0.0.56 (193.0.0.56)
+      Origin IGP, localpref 100, valid, external
+      Community: 8359:5500 8359:55654
+      path 7FE179AA5AA8 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  101 3356 3216 199524
+    209.124.176.223 from 209.124.176.223 (209.124.176.223)
+      Origin IGP, localpref 100, valid, external
+      Community: 101:20100 101:20110 101:22100 3216:2001 3216:2003 3216:4454 3356:2 3356:22 3356:100 3356:123 3356:503 3356:903 3356:2067
+      Extended Community: RT:101:22100
+      path 7FE15F2113D0 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  49788 12552 8359 199524
+    91.218.184.60 from 91.218.184.60 (91.218.184.60)
+      Origin IGP, localpref 100, valid, external
+      Community: 12552:12000 12552:12100 12552:12101 12552:22000
+      Extended Community: 0x43:100:1
+      path 7FE04218CEF8 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  852 3356 3216 199524
+    154.11.12.212 from 154.11.12.212 (96.1.209.43)
+      Origin IGP, metric 0, localpref 100, valid, external
+      path 7FE0FCDFF398 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  8283 8359 199524
+    94.142.247.3 from 94.142.247.3 (94.142.247.3)
+      Origin IGP, metric 0, localpref 100, valid, external
+      Community: 8283:1 8283:101 8359:5500 8359:55654
+      unknown transitive attribute: flag 0xE0 type 0x20 length 0x18
+        value 0000 205B 0000 0000 0000 0001 0000 205B
+              0000 0005 0000 0001 
+      path 7FE1645D6908 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  57866 3356 3216 199524
+    37.139.139.17 from 37.139.139.17 (37.139.139.17)
+      Origin IGP, metric 0, localpref 100, valid, external
+      Community: 3216:2001 3216:2003 3216:4454 3356:2 3356:22 3356:100 3356:123 3356:503 3356:903 3356:2067
+      path 7FE0DB74FD90 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  3549 3356 3216 199524
+    208.51.134.254 from 208.51.134.254 (67.16.168.191)
+      Origin IGP, metric 0, localpref 100, valid, external
+      Community: 3216:2001 3216:2003 3216:4454 3356:2 3356:22 3356:100 3356:123 3356:503 3356:903 3356:2067 3549:2581 3549:30840
+      path 7FE143F65238 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  20130 6939 3216 199524
+    140.192.8.16 from 140.192.8.16 (140.192.8.16)
+      Origin IGP, localpref 100, valid, external
+      path 7FE0EB29CBE8 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  3356 3216 199524
+    4.68.4.46 from 4.68.4.46 (4.69.184.201)
+      Origin IGP, metric 0, localpref 100, valid, external
+      Community: 3216:2001 3216:2003 3216:4454 3356:2 3356:22 3356:100 3356:123 3356:503 3356:903 3356:2067
+      path 7FE12E2FF288 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  7018 6453 20485 199524
+    12.0.1.63 from 12.0.1.63 (12.0.1.63)
+      Origin IGP, localpref 100, valid, external
+      Community: 7018:5000 7018:37232
+      path 7FE1148CAE28 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  53767 174 3216 3216 199524
+    162.251.163.2 from 162.251.163.2 (162.251.162.3)
+      Origin IGP, localpref 100, valid, external
+      Community: 174:21101 174:22010 53767:5000
+      path 7FE170B99E48 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  6939 3216 199524
+    64.71.137.241 from 64.71.137.241 (216.218.252.164)
+      Origin IGP, localpref 100, valid, external
+      path 7FE104203C80 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  701 1273 12389 199524
+    137.39.3.55 from 137.39.3.55 (137.39.3.55)
+      Origin IGP, localpref 100, valid, external
+      path 7FE03D5A3800 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  1221 4637 3216 199524
+    203.62.252.83 from 203.62.252.83 (203.62.252.83)
+      Origin IGP, localpref 100, valid, external
+      path 7FE08E913718 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 3
+  2497 12389 199524
+    202.232.0.2 from 202.232.0.2 (58.138.96.254)
+      Origin IGP, localpref 100, valid, external, best
+      path 7FE16AF9D408 RPKI State not found
+      rx pathid: 0, tx pathid: 0x0
+  Refresh Epoch 1
+  4901 6079 8359 199524
+    162.250.137.254 from 162.250.137.254 (162.250.137.254)
+      Origin IGP, localpref 100, valid, external
+      Community: 65000:10100 65000:10300 65000:10400
+      path 7FE023FF9658 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  3303 12389 199524
+    217.192.89.50 from 217.192.89.50 (138.187.128.158)
+      Origin IGP, localpref 100, valid, external
+      Community: 3303:1004 3303:1006 3303:1030 3303:3056
+      path 7FE0339DC538 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  3561 3910 3356 3216 199524
+    206.24.210.80 from 206.24.210.80 (206.24.210.80)
+      Origin IGP, localpref 100, valid, external
+      path 7FE1685AEC70 RPKI State not found
+      rx pathid: 0, tx pathid: 0
+  Refresh Epoch 1
+  3257 1299 20485 199524
+    89.149.178.10 from 89.149.178.10 (213.200.83.26)
+      Origin IGP, metric 10, localpref 100, valid, external
+      Community: 3257:8794 3257:30052 3257:50001 3257:54900 3257:54901
+      path 7FE0E1A693B8 RPKI State not found
+      rx pathid: 0, tx pathid: 0

@@ -1,0 +1,168 @@
+BGP routing table entry for 217.72.8.0/22
+Paths: (35 available, best #12, table default)
+  Not advertised to any peer
+  34224 28917
+    94.156.252.18 from 94.156.252.18 (94.156.252.25)
+      Origin IGP, metric 0, valid, external
+      Community: 34224:334 64700:41441
+      Last update: Sun Jun 26 10:33:31 2022
+  7018 3257 28917
+    12.0.1.63 from 12.0.1.63 (12.0.1.63)
+      Origin IGP, valid, external
+      Community: 7018:5000 7018:37232
+      Last update: Thu Jun 23 16:26:21 2022
+  3130 1239 3257 28917
+    147.28.7.2 from 147.28.7.2 (147.28.7.2)
+      Origin IGP, metric 0, valid, external
+      Community: 1239:321 1239:1000 1239:1010
+      Last update: Thu Jun 23 16:26:26 2022
+  20912 3257 28917
+    212.66.96.126 from 212.66.96.126 (212.66.96.126)
+      Origin IGP, valid, external
+      Community: 3257:4000 3257:8092 3257:50001 3257:50111 3257:54800 3257:54801 20912:65004
+      Last update: Thu Jun 23 16:27:48 2022
+  2497 3257 28917
+    202.232.0.3 from 202.232.0.3 (58.138.96.255)
+      Origin IGP, valid, external
+      Last update: Thu Jun 23 16:26:39 2022
+  3303 28917
+    217.192.89.50 from 217.192.89.50 (138.187.128.158)
+      Origin IGP, valid, external
+      Community: 3303:1004 3303:1006 3303:1030 3303:3056 28917:2000 28917:5350
+      Last update: Wed Jun 22 10:39:01 2022
+  8492 28917
+    85.114.0.217 from 85.114.0.217 (85.114.0.104)
+      Origin IGP, valid, external
+      Community: 8492:1207 8492:1601
+      Last update: Thu Jun 23 00:54:37 2022
+  18106 28917
+    202.73.40.45 from 202.73.40.45 (202.73.40.49)
+      Origin IGP, valid, external
+      Community: 6777:2000
+      Last update: Wed Jun 22 09:28:54 2022
+  1221 4637 3257 28917
+    203.62.252.83 from 203.62.252.83 (203.62.252.83)
+      Origin IGP, valid, external
+      Last update: Thu Jun 23 16:26:39 2022
+  293 6939 28917
+    198.129.33.85 from 198.129.33.85 (134.55.200.172)
+      Origin IGP, metric 710, valid, external
+      Last update: Wed Jun 22 08:23:14 2022
+  1403 6461 28917
+    198.58.198.252 from 198.58.198.252 (198.58.198.252)
+      Origin IGP, valid, external
+      Community: 1403:6461
+      Last update: Wed Jun 22 08:22:04 2022
+  57866 28917
+    37.139.139.17 from 37.139.139.17 (37.139.139.17)
+      Origin IGP, metric 0, valid, external, best (AS Path)
+      Community: 0:6939 0:16276 28917:2000 28917:5350 57866:304 57866:501
+      Last update: Wed Jun 22 08:21:35 2022
+  3561 209 3356 3257 28917
+    206.24.210.80 from 206.24.210.80 (206.24.210.80)
+      Origin IGP, valid, external
+      Last update: Thu Jun 23 16:26:22 2022
+  2914 3257 28917
+    129.250.1.71 from 129.250.1.71 (129.250.1.15)
+      Origin IGP, metric 21290, valid, external
+      Community: 2914:420 2914:1007 2914:2000 2914:3000 3257:3257
+      Last update: Thu Jun 23 16:26:38 2022
+  5413 1299 3257 28917
+    194.153.0.253 from 194.153.0.253 (62.72.136.128)
+      Origin IGP, valid, external
+      Last update: Thu Jun 23 16:26:53 2022
+  3549 3356 3257 28917
+    208.51.134.255 from 208.51.134.255 (67.16.168.241)
+      Origin IGP, metric 0, valid, external
+      Community: 3257:3257 3356:3 3356:22 3356:86 3356:575 3356:666 3356:903 3356:2003 3549:2018 3549:30840
+      Last update: Thu Jun 23 16:27:04 2022
+  1299 3257 28917
+    62.115.128.137 from 62.115.128.137 (2.255.254.88)
+      Origin IGP, valid, external
+      Last update: Thu Jun 23 16:26:22 2022
+  3257 28917
+    89.149.178.10 from 89.149.178.10 (213.200.83.26)
+      Origin IGP, metric 10, valid, external
+      Community: 3257:4000 3257:8092 3257:50001 3257:50111 3257:54800 3257:54801
+      Last update: Thu Jun 23 16:26:34 2022
+  53767 174 174 3257 28917
+    162.251.163.2 from 162.251.163.2 (162.251.162.3)
+      Origin IGP, valid, external
+      Community: 174:21000 174:22013 53767:5000
+      Last update: Thu Jun 23 16:26:46 2022
+  3549 3356 3257 28917
+    208.51.134.246 from 208.51.134.246 (67.16.169.26)
+      Origin IGP, metric 0, valid, external
+      Community: 3257:3257 3356:2 3356:22 3356:86 3356:500 3356:666 3356:903 3356:2064 3549:2352 3549:31826
+      Last update: Thu Jun 23 16:26:22 2022
+  37100 28917
+    105.16.0.247 from 105.16.0.247 (105.16.0.247)
+      Origin IGP, valid, external
+      Community: no-export
+      Last update: Wed Jun 22 08:01:11 2022
+  22652 3257 28917
+    45.61.0.85 from 45.61.0.85 (184.95.245.30)
+      Origin IGP, valid, external
+      Community: 3257:4000 3257:8092 3257:50001 3257:50111 3257:54800 3257:54801 22652:2000 22652:2004 22652:50000 22652:51101 22652:52000
+      Last update: Thu Jun 23 16:26:22 2022
+  49788 12552 28917
+    91.218.184.60 from 91.218.184.60 (91.218.184.60)
+      Origin IGP, valid, external
+      Community: 12552:12000 12552:12100 12552:12101 12552:22000
+      Extended Community: UNK:0, 67
+      Last update: Wed Jun 22 08:01:02 2022
+  2152 3356 3257 28917
+    137.164.16.84 from 137.164.16.84 (137.164.16.12)
+      Origin IGP, valid, external
+      Community: 2152:65493 2152:65497 2152:65499 2152:65511 3257:3257 3356:3 3356:22 3356:86 3356:575 3356:666 3356:903 3356:2011
+      Last update: Thu Jun 23 16:26:50 2022
+  6939 28917
+    64.71.137.241 from 64.71.137.241 (216.218.252.164)
+      Origin IGP, valid, external
+      Last update: Wed Jun 22 06:22:47 2022
+  3741 3356 3257 28917
+    168.209.255.56 from 168.209.255.56 (168.209.255.56)
+      Origin IGP, valid, external
+      Last update: Thu Jun 23 16:26:42 2022
+  20130 6939 28917
+    140.192.8.16 from 140.192.8.16 (140.192.8.16)
+      Origin IGP, valid, external
+      Last update: Wed Jun 22 06:19:22 2022
+  23673 55329 28917
+    203.189.128.233 from 203.189.128.233 (203.189.128.233)
+      Origin IGP, valid, external
+      Large Community: 6695:1000:2 6695:1001:1
+      Last update: Wed Jun 22 06:19:17 2022
+  11686 6461 28917
+    96.4.0.55 from 96.4.0.55 (96.4.0.55)
+      Origin IGP, valid, external
+      Last update: Wed Jun 22 06:17:52 2022
+  701 3257 28917
+    137.39.3.55 from 137.39.3.55 (137.39.3.55)
+      Origin IGP, valid, external
+      Last update: Thu Jun 23 16:26:32 2022
+  13030 28917
+    213.144.128.203 from 213.144.128.203 (213.144.128.203)
+      Origin IGP, metric 1, valid, external
+      Community: 13030:1 13030:1016 13030:4004 13030:8219 13030:50000 13030:51203
+      Last update: Wed Jun 22 06:16:38 2022
+  57463 28917
+    87.121.64.4 from 87.121.64.4 (172.16.77.4)
+      Origin IGP, valid, external
+      Community: 0:29049 8:1111 64700:41441 65300:41441 65400:1 65400:65400
+      Last update: Wed Jun 22 06:16:32 2022
+  31019 28917
+    91.228.151.1 from 91.228.151.1 (91.228.151.1)
+      Origin incomplete, valid, external
+      Large Community: 6695:1000:2 6695:1001:1
+      Last update: Wed Jun 22 06:15:56 2022
+  3130 2914 3257 28917
+    147.28.7.1 from 147.28.7.1 (147.28.7.1)
+      Origin IGP, valid, external
+      Community: 2914:420 2914:1007 2914:2000 2914:3000 3257:3257
+      Last update: Thu Jun 23 16:27:08 2022
+  7660 2516 3257 28917
+    203.181.248.168 from 203.181.248.168 (203.181.248.168)
+      Origin IGP, valid, external
+      Community: 2516:1030 7660:9003
+      Last update: Thu Jun 23 16:26:24 2022
