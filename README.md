@@ -1,2 +1,2 @@
 # KathBuilder
-experimental python software to study BGP incident in a secure environment
+experimental python software to study BGP incidents in a secure environment
